@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Desafio 02 refatorando componentes de classes para função e de javascript para typescript
+    Desafio 02 refatorando componentes de classes para função e de javascript para typescript. [Chapter II]
 </h3>
 
 <p align="center">
